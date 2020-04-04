@@ -1,5 +1,5 @@
 # Dezibandi
-Dezibandi is a careful mixtape of the best of different texture packs, aiming to provide an enhanced close-to-vanilla Minecraft experience.
+Dezibandi is a careful mixtape of the best of different texture packs, aiming to provide an enhanced close-to-vanilla experience.
 
 ### Installation
 - You'll need to have [OptiFine](https://optifine.net/) installed to enjoy all that the Kingdom of Dezibandi has to offer.<br>
