@@ -1,8 +1,10 @@
 # Dezibandi
 Dezibandi is a careful mixtape of the best of different texture packs, aiming to provide an enhanced close-to-vanilla Minecraft experience.
 
-### Resourcepacks
-You'll need to have [OptiFine](https://optifine.net/) installed to enjoy all that the Kingdom of Dezibandi has to offer.
+### Installation
+- You'll need to have [OptiFine](https://optifine.net/) installed to enjoy all that the Kingdom of Dezibandi has to offer.<br>
+- Turn Clouds off and Custom Sky on to enjoy the true beauty of Dezibandian skies.
+- Optional: [Sildur's Shaders](https://sildurs-shaders.github.io/)
 
 ###### RELEASE VERSION
 * [*`Dezibandi 1.15`*](https://github.com/nooisy/Dezibandi/raw/master/Archives/Dezibandi%201.15.zip)
