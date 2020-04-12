@@ -7,7 +7,7 @@ Dezibandi is a careful mixtape of the best of different texture packs, aiming to
 - Optional: [Sildur's Shaders](https://sildurs-shaders.github.io/)
 
 ###### RELEASE VERSION
-* [*`Dezibandi 1.15`*](https://github.com/nooisy/Dezibandi/raw/master/Archives/Dezibandi%201.15.zip)
+* [*`Dezibandi 1.15`*](https://github.com/nooisy/Dezibandi/raw/master/Archives/Dezibandi%201.15%20b0.5.zip)
 
 #### Dezibandi uses textures from:
 - [Better Wheat](https://www.curseforge.com/minecraft/texture-packs/better-wheat)
