@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_column",
     "textures": {
-        "end": "block/crimson_planks_vertical",
-        "side": "block/crimson_planks_vertical"
+        "end": "block/crimson_planks",
+        "side": "block/crimson_planks"
     }
 }

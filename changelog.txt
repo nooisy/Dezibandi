@@ -1,0 +1,37 @@
+Dezibandi b0.5
+- out of the alpha into the beta
+- added chicken skin that appears in desert and badland biomes
+- added new splash texts
+- changed logo
+- changed options background
+- changed sign textures to the Jicklus ones
+- changed ore textures to the Jicklus ones
+- changed texture of vertical planks to regular planks
+- changed texture of double stone brick slabs to the regular block
+- changed texture of double cut sandstone slabs to the regular block
+- changed texture of double cut red sandstone slabs to the regular block
+- changed texture of double cobblestone slabs to the regular block
+- changed pistons to look more vanilla
+- changed aztec2, burst, donkey_kong, fighters, graham, kebab, pigscene,
+  pointer, skeleton, stage and void paintings
+- changed bomb, courbet and skull_and_roses paintings to vanilla
+- changed cactus texture to vanilla
+- changed noteblock texture to vanilla
+- changed passive observer front to vanilla
+- changed dropper texture to vanilla
+- changed jukebox texture to vanilla
+- changed dispenser texture to vanilla
+- changed fletching table to vanilla
+- changed cartography table to vanilla
+- reduced volume of inside minecart sound with 10dB
+- reduced volume of ambient cave sounds with 20dB
+- reduced volume of water sound with 20dB
+- removed leftover creeper skin
+- removed redundant mob folder and its files
+
+Dezibandi a0.01
+- changed sandstone textures to have smooth top
+- changed loading screen so credits are on top
+- changed mossy stone texture to default texture
+- removed connected textures for dirt blocks as a hotfix for glitching issue
+  (to be reverted in the future if a new optifine update fixes it)
