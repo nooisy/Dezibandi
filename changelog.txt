@@ -1,3 +1,8 @@
+Dezibandi b0.7
+- new Dezibandi live pack for servers
+- new splash texts
+- changed dirt textures to b0.5 ones
+
 Dezibandi b0.69
 - 1.16 update
 - new splash texts
