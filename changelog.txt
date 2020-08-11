@@ -1,3 +1,21 @@
+Dezibandi b0.69
+- 1.16 update
+- new splash texts
+- newly designed textures
+- subtle sheep, collars, xpbar and map recolors (Jicklus)
+- reintroduced slab variants (including vertical planks) (Nate's Tweaks)
+- reintroduced overlapping dirt textures (thanks optifine dude)
+- changed mossy cobblestone texture to vanilla
+- changed redstone icon to vanilla
+- changed petrified oak slabs texture to vanilla
+- changed netherrack textures (Jicklus)
+- changed ancient debris texture (Jicklus)
+- changed stone texture (Jicklus)
+- changed tables textures (Nate's Tweaks)
+- changed dark oak trapdoor texture (Nate's Tweaks)
+- fixed lit furnace front (Jicklus)
+- clean up of redundant json and other files
+
 Dezibandi b0.5
 - out of the alpha into the beta
 - added chicken skin that appears in desert and badland biomes
@@ -29,9 +47,14 @@ Dezibandi b0.5
 - removed leftover creeper skin
 - removed redundant mob folder and its files
 
-Dezibandi a0.01
+Dezibandi a0.01 (by HeronimusGeribali)
 - changed sandstone textures to have smooth top
 - changed loading screen so credits are on top
 - changed mossy stone texture to default texture
-- removed connected textures for dirt blocks as a hotfix for glitching issue
+- removed overlapping textures for dirt blocks as a hotfix for glitching issue
   (to be reverted in the future if a new optifine update fixes it)
+
+Dezibandi a0 (unpublished)
+- removed Jicklus & Nate's Tweaks gui stuff
+- changed color of loading screen
+- changed (trapped) chest texture to vanilla

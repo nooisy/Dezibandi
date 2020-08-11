@@ -2,7 +2,7 @@
     "parent": "block/slab",
     "textures": {
         "bottom": "block/cut_sandstone",
-        "top": "block/sandstone_top",
+        "top": "block/cut_sandstone",
         "side": "block/cut_sandstone"
     }
 }

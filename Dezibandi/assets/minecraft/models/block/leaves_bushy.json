@@ -47,5 +47,6 @@
 				"south": {"uv": [16, 0, 0, 16], "texture": "#bushy", "tintindex": 0}
 			}
 		}
-	]
+	],
+	"display": {}
 }

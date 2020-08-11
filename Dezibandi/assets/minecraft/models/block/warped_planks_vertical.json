@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_column",
     "textures": {
-        "end": "block/warped_planks",
-        "side": "block/warped_planks"
+        "end": "block/warped_planks_vertical",
+        "side": "block/warped_planks_vertical"
     }
 }

@@ -1,33 +1,42 @@
 {
 	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
 	"textures": {
-		"3": "block/brown_mushroom_model",
-		"particle": "block/brown_mushroom"
+		"particle": "block/mushroom_brown_block"
 	},
 	"elements": [
 		{
-			"from": [7, 0, 7],
-			"to": [9, 4, 9],
+			"from": [7, 0, 6],
+			"to": [9, 4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 14]},
 			"faces": {
-				"north": {"uv": [7, 12, 9, 16], "texture": "#3"},
-				"east": {"uv": [7, 12, 9, 16], "texture": "#3"},
-				"south": {"uv": [7, 12, 9, 16], "texture": "#3"},
-				"west": {"uv": [7, 12, 9, 16], "texture": "#3"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
+				"north": {"uv": [4, 7, 5, 9], "texture": "#particle"},
+				"east": {"uv": [5, 7, 6, 9], "texture": "#particle"},
+				"south": {"uv": [6, 7, 7, 9], "texture": "#particle"},
+				"west": {"uv": [7, 7, 8, 9], "texture": "#particle"},
+				"up": {"uv": [5, 4, 4, 3], "texture": "#particle"},
+				"down": {"uv": [6, 3, 5, 4], "texture": "#particle"}
 			}
 		},
 		{
-			"from": [4, 4, 4],
-			"to": [12, 6, 12],
+			"from": [4, 4, 3],
+			"to": [12, 7, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 12, 14]},
 			"faces": {
-				"north": {"uv": [4, 10, 12, 12], "texture": "#3"},
-				"east": {"uv": [4, 10, 12, 12], "texture": "#3"},
-				"south": {"uv": [4, 10, 12, 12], "texture": "#3"},
-				"west": {"uv": [4, 10, 12, 12], "texture": "#3"},
-				"up": {"uv": [4, 2, 12, 10], "texture": "#3"},
-				"down": {"uv": [7, 12, 9, 14], "texture": "#3"}
+				"north": {"uv": [4, 4, 8, 5.5], "texture": "#particle"},
+				"east": {"uv": [4, 0, 8, 1.5], "texture": "#particle"},
+				"south": {"uv": [4, 1.5, 8, 3], "texture": "#particle"},
+				"west": {"uv": [4, 5.5, 8, 7], "texture": "#particle"},
+				"up": {"uv": [4, 4, 0, 0], "texture": "#particle"},
+				"down": {"uv": [4, 4, 0, 8], "texture": "#particle"}
 			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
 		}
 	]
 }
